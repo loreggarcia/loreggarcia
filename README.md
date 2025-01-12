@@ -7,7 +7,7 @@
 
 - 👯 Eu procuro colaborar com **soluções de negócio inovadoras pro mercado**
 
-- 📫 Fale comigo em: **lggarcia.profissional@gmail.com ou**
+- 📫 Fale comigo em: **lggarcia.profissional@gmail.com**
 
 - ⚡ Curiosidades sobre mim: **Eu amo histórias em quadrinhos e cinema, além de ser fissurada por geopolítica e matemática**
 
