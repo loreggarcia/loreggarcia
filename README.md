@@ -1,4 +1,4 @@
-![Hello Gif](https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxMTUxNjAsIm5iZiI6MTczODExNDg2MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDAxNDEwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MGNjNzQyODNjODhjMTZkYjdlMDY5ZDE1ODNlYmE0YzRiMGUxYzkxOWM0MWI3MWYyOGY3YTJlMmQ2YTgwMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mEWsA_jNMLh2yQPXGOAwmlNVzJsUd1LoZkGt246mSNU)
+![Hello Gif](https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxMTU0MTksIm5iZiI6MTczODExNTExOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDAxNDUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5YTBlNzE0YzMyNzNkMTU1ZmExYTMzYjg2YTA4ZDNmZjhiOGFhZjdlMWExNDUyNWZkMjJhMjVlM2E1NzdlZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lYH6lE_s1lbUg_vMfiJd_W5sDA4TmGHOt-da3SB5Hqc)
 
 
 <h3> ˚˖𓍢ִ໋🌷͙֒✧ &nbsp;About Me </h3>
@@ -38,3 +38,5 @@
   [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/llorenxzz/?next=%2F)
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loreggarcia)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lorenagabriela03683@gmail.com)
+
+![Bye Gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
