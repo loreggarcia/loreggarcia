@@ -5,7 +5,6 @@
 
 
 - 🎓 &nbsp; Studying Computer Engineering at Instituto de Tecnologia e Liderança.
-- 🤔 &nbsp; Exploring the bussiness world.
 
 <h3> 🧠 &nbsp;Fun Fact</h3>
 
