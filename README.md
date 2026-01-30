@@ -4,7 +4,7 @@
 <h3> ˚˖𓍢ִ໋🌷͙֒✧ &nbsp;About Me </h3>
 
 
-- 🎓 &nbsp; Studying ADM Tech at Instituto de Tecnologia e Liderança.
+- 🎓 &nbsp; Studying Computer Engineering at Instituto de Tecnologia e Liderança.
 - 🤔 &nbsp; Exploring the bussiness world.
 
 <h3> 🧠 &nbsp;Fun Fact</h3>
@@ -38,5 +38,6 @@
   [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/llorenxzz/?next=%2F)
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loreggarcia)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lorenagabriela03683@gmail.com)
+  [![Linkedin](https://blog.waalaxy.com/en/linkedin-logo-history-and-free-download/)]([lorenagabriela03683@gmail.com](https://www.linkedin.com/in/llorengarcia/))
 
 ![Bye Gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
