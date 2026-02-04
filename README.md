@@ -4,7 +4,7 @@
 <h3> ˚˖𓍢ִ໋🌷͙֒✧ &nbsp;About Me </h3>
 
 
-- 🎓 &nbsp; Studying Computer Engineering at Instituto de Tecnologia e Liderança.
+- 🎓 &nbsp; Studying Computer Engineering at Institute of Technology and Leadership.
 
 <h3> 🧠 &nbsp;Fun Fact</h3>
 
